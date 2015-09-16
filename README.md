@@ -10,3 +10,6 @@ If you do not have bower, you can install it globally by running:
 If you don't have NPM, google for instructions! ˆˆ
 
 ##Assemany
+
+
+<img src="http://assemany.com/projeto/acs/pic1.png" width="48">
