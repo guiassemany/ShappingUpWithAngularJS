@@ -12,7 +12,4 @@ If you don't have NPM, google for instructions! ˆˆ
 ##Assemany
 
 
-<img src="http://assemany.com/projeto/acs/pic1.png" width="100">
-<img src="http://assemany.com/projeto/acs/pic2.png" width="100">
-<img src="http://assemany.com/projeto/acs/pic3.png" width="100">
-<img src="http://assemany.com/projeto/acs/pic4.png" width="100">
+
